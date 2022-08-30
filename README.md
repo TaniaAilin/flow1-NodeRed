@@ -55,6 +55,6 @@ A continuación puede verse una vista previa del resultado de este flow.
 
     Desarrollado por Tania Ailin
 
-    Página en Facebook
-    GitHub
+    https://www.facebook.com/tania.ailin.1
+    https://github.com/TaniaAilin/
 
