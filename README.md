@@ -41,11 +41,11 @@ Para que este flow funcione, debes cumplir con los siguientes requisitos previos
 
     Para observar el resutlado de este flow, sólo es necesario abrir la pestaña Debug.
 
-#Resultados
+# Resultados
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-/home/tania/Imágenes/Captura de pantalla de 2022-08-30 09-19-00.png
+![Captura de pantalla de 2022-08-30 09-19-00](https://user-images.githubusercontent.com/111372187/187478695-75c01c41-95d6-497e-8d13-8413adcb4ea5.png)
 
 # Evidencias
 
@@ -53,7 +53,7 @@ A continuación puede verse una vista previa del resultado de este flow.
 
 # Créditos
 
-Desarrollado por Tania Ailin
+    Desarrollado por Tania Ailin
 
     Página en Facebook
     GitHub
